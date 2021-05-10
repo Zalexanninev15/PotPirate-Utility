@@ -14,3 +14,7 @@
 
 * Операционная система: Windows 7/8/8.1/10 (x64)
 * Дополнительно: Microsoft .NET Framework 4.0, PotPlayer
+
+## Сборка
+
+Компилируем используя [SharpDevelop](https://sourceforge.net/projects/sharpdevelop/) (потребуется внести изменение в сам файл проекта) или Visual Studio
