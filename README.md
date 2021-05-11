@@ -30,4 +30,4 @@
 
 ## Сборка
 
-Компилируем используя [SharpDevelop](https://sourceforge.net/projects/sharpdevelop/) или Visual Studio
+Компилируем используя [SharpDevelop](https://sourceforge.net/projects/sharpdevelop/) (потребуется внести изменение в сам файл проекта) или Visual Studio
