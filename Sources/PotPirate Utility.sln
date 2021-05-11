@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.4
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PotPirate Utility", "PotPirate Utility\PotPirate Utility.csproj", "{317B27E8-974F-4153-A7F3-F6B6943A3222}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{317B27E8-974F-4153-A7F3-F6B6943A3222}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{317B27E8-974F-4153-A7F3-F6B6943A3222}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{317B27E8-974F-4153-A7F3-F6B6943A3222}.Release|Any CPU.Build.0 = Release|Any CPU
+		{317B27E8-974F-4153-A7F3-F6B6943A3222}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal
