@@ -1,4 +1,4 @@
-# Потный пират
+# Потный пират | [Последняя версия](https://github.com/Zalexanninev15/PotPirate-Utility/releases/latest)
 
 ![](https://github.com/Zalexanninev15/PotPirate-Utility/blob/master/logo.png?raw=true)
 
