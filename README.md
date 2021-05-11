@@ -9,6 +9,10 @@
 [![](https://img.shields.io/badge/donate-QIWI-FF8C00.svg)](https://qiwi.com/n/ZALEXANNINEV15)
 [![](https://img.shields.io/badge/donate-YooMoney-8B3FFD.svg)](https://yoomoney.ru/to/410015106319420)
 
+## Скриншот
+
+![](https://github.com/Zalexanninev15/PotPirate-Utility/blob/main/screenshot.png?raw=true)
+
 ## Описание
 
 Утилита настройки PotPlayer для просмотра торрент-фильмов без скачивания торрента
