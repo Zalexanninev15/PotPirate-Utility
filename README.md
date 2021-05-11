@@ -1,6 +1,6 @@
 # Потный пират | [Последняя версия](https://github.com/Zalexanninev15/PotPirate-Utility/releases/latest)
 
-![](https://github.com/Zalexanninev15/PotPirate-Utility/blob/master/logo.png?raw=true)
+![](https://github.com/Zalexanninev15/PotPirate-Utility/blob/main/logo.png?raw=true)
 
 [![](https://img.shields.io/badge/OS-Windows-informational?logo=windows)](https://github.com/Zalexanninev15/PotPirate-Utility)
 [![](https://img.shields.io/github/v/release/Zalexanninev15/PotPirate-Utility)](https://github.com/Zalexanninev15/PotPirate-Utility/releases/latest)
