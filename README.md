@@ -3,6 +3,7 @@
 ![](https://github.com/Zalexanninev15/PotPirate-Utility/blob/main/logo.png?raw=true)
 
 [![](https://img.shields.io/badge/OS-Windows-informational?logo=windows)](https://github.com/Zalexanninev15/PotPirate-Utility)
+[![](https://img.shields.io/badge/.NET-Framework_4-4E2ACD.svg)](https://dotnet.microsoft.com/download/dotnet-framework/net40)
 [![](https://img.shields.io/github/v/release/Zalexanninev15/PotPirate-Utility)](https://github.com/Zalexanninev15/PotPirate-Utility/releases/latest)
 [![](https://img.shields.io/github/downloads/Zalexanninev15/PotPirate-Utility/total.svg)](https://github.com/Zalexanninev15/PotPirate-Utility/releases)
 [![](https://img.shields.io/github/last-commit/Zalexanninev15/PotPirate-Utility)](https://github.com/Zalexanninev15/PotPirate-Utility/commits/main)
