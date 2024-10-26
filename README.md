@@ -10,7 +10,7 @@
 [![](https://img.shields.io/github/last-commit/Zalexanninev15/PotPirate-Utility)](https://github.com/Zalexanninev15/PotPirate-Utility/commits/main)
 [![](https://img.shields.io/github/stars/Zalexanninev15/PotPirate-Utility.svg)](https://github.com/Zalexanninev15/PotPirate-Utility/stargazers)
 [![](https://img.shields.io/badge/license-GPLv3-ligthgreen.svg)](LICENSE)
-[![](https://img.shields.io/badge/donate-Buy_Me_a_Coffee-F94400.svg)](https://zalexanninev15.jimdofree.com/buy-me-a-coffee)
+[![](https://img.shields.io/badge/Donate-FFDD00.svg?logo=buymeacoffee&logoColor=black)](https://z15.neocities.org/donate)
 
 ## Скриншот
 
